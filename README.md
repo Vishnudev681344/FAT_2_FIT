@@ -1,7 +1,5 @@
 # FAT 2 FIT
 
-[![Live Demo Link](https://img.shields.io/website?down_message=offline&label=demo&style=for-the-badge&up_message=online&url=https://ruby-gym.netlify.app)](https://ruby-gym.netlify.app)
-
 ## Table of Contents
 
 - [General Info](#general-info)
