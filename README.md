@@ -65,10 +65,6 @@ Now, you can run the app:
 npm run dev
 ```
 
-## Acknowledgment
-
-This project is based on [this tutorial](https://www.youtube.com/watch?v=KBpoBc98BwM) by [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) youtube channel.
-
 ## License
 
 [MIT](./LICENSE)
